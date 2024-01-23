@@ -1,0 +1,4 @@
+hdfs
+fastapi
+python-multipart
+uvicorn
